@@ -1,0 +1,41 @@
+# Created at 2019-07-17T22:22:50.405
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-07-17T22:23:10.195
+Unexpected IOException with stream: Clicked : //a[text()='Contacts' and contains( @class,'Navigator')]
+
+
+# Created at 2019-07-17T22:23:10.200
+Unexpected IOException with stream: Selected product : Contacts
+
+
+# Created at 2019-07-17T22:23:10.205
+Unexpected IOException with stream: Contacts  page displayed
+
+
+# Created at 2019-07-17T22:23:21.678
+Unexpected IOException with stream: Clicked : //a[contains(@id,'slctChoice')]
+
+
+# Created at 2019-07-17T22:23:32.759
+Unexpected IOException with stream: Clicked : (//li[text()='1904Filter'])[2]
+
+
+# Created at 2019-07-17T22:23:32.770
+Unexpected IOException with stream: Contact saved search filter selected
+
+
+# Created at 2019-07-17T22:23:35.894
+Unexpected IOException with stream: Searching for : (//a[contains(@title,'1904Filter')])[1]
+
+
+# Created at 2019-07-17T22:23:47.142
+Unexpected IOException with stream: Clicked : (//a[contains(@title,'1904Filter')])[1]
+
+

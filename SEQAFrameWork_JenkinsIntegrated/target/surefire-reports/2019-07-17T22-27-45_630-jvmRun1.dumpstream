@@ -1,0 +1,33 @@
+# Created at 2019-07-17T22:36:14.538
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-07-17T22:36:19.210
+Unexpected IOException with stream: Clicked : //button[@id="authorize"]
+
+
+# Created at 2019-07-17T22:36:24.862
+Unexpected IOException with stream: Clicked : //button[@id="authorize"]
+
+
+# Created at 2019-07-17T22:36:30.571
+Unexpected IOException with stream: Clicked : //button[@id="authorize"]
+
+
+# Created at 2019-07-17T22:36:36.350
+Unexpected IOException with stream: Clicked : //button[@id="authorize"]
+
+
+# Created at 2019-07-17T22:36:42.165
+Unexpected IOException with stream: Clicked : //button[@id="authorize"]
+
+
+# Created at 2019-07-17T22:36:48.027
+Unexpected IOException with stream: Clicked : //button[@id="authorize"]
+
+

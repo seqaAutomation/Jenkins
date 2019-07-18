@@ -1,0 +1,4 @@
+# Created at 2019-07-17T21:03:26.185
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Personal\OSCFrameWork_BackUp\SEQAFrameWork_JenkinsIntegrated\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
